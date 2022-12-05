@@ -1,0 +1,14 @@
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+.error-msg {
+  height: 450px;
+}
+.oops {
+  color: #5a7184;
+  font-size: 34px;
+}
